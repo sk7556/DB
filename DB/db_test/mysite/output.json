@@ -3,11 +3,11 @@
   "model": "blog.post",
   "pk": 1,
   "fields": {
-    "title": "1111",
-    "content": "11111111",
+    "title": "수정된 제목 1",
+    "content": "11",
     "head_image": "",
     "file_upload": "",
-    "created_at": "2023-10-23T04:12:51.990Z",
+    "created_at": "2023-10-23T04:12:15.309Z",
     "updated_at": "2023-10-23"
   }
 },
@@ -15,11 +15,11 @@
   "model": "blog.post",
   "pk": 2,
   "fields": {
-    "title": "222",
-    "content": "222222",
-    "head_image": "",
-    "file_upload": "",
-    "created_at": "2023-10-23T04:12:56.138Z",
+    "title": "2",
+    "content": "22",
+    "head_image": "blog/images/2023/10/23/sample.jpg",
+    "file_upload": "blog/files/2023/10/23/sample.jpg",
+    "created_at": "2023-10-23T04:12:31.923Z",
     "updated_at": "2023-10-23"
   }
 },
@@ -27,11 +27,11 @@
   "model": "blog.post",
   "pk": 3,
   "fields": {
-    "title": "333",
-    "content": "333333",
+    "title": "3",
+    "content": "33",
     "head_image": "",
     "file_upload": "",
-    "created_at": "2023-10-23T04:12:58.973Z",
+    "created_at": "2023-10-23T04:12:35.594Z",
     "updated_at": "2023-10-23"
   }
 },
@@ -39,11 +39,11 @@
   "model": "blog.post",
   "pk": 4,
   "fields": {
-    "title": "44",
-    "content": "444",
+    "title": "hello4",
+    "content": "44",
     "head_image": "",
     "file_upload": "",
-    "created_at": "2023-10-23T04:28:27.754Z",
+    "created_at": "2023-10-23T04:28:14.706Z",
     "updated_at": "2023-10-23"
   }
 },
@@ -51,11 +51,11 @@
   "model": "blog.post",
   "pk": 5,
   "fields": {
-    "title": "오오",
-    "content": "오오오오오",
+    "title": "test5",
+    "content": "55",
     "head_image": "",
     "file_upload": "",
-    "created_at": "2023-10-22T05:27:42.242Z",
+    "created_at": "2023-10-22T05:27:42.857Z",
     "updated_at": "2023-10-22"
   }
 }

@@ -10,9 +10,12 @@ class Post(models.Model):
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateField(auto_now=True)
 
-class Book(models.Model):
+    def __str__(self):
+        return self.title
+    
+class Movie(models.Model):
     title = models.CharField(max_length=100)
-    star = models.IntegerField() 
+    star = models.IntegerField()
 
     def __str__(self):
         return self.title
